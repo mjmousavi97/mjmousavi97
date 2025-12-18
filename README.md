@@ -28,17 +28,9 @@ I build and analyze **machine learning**, **deep learning**, and **graph-based**
 - **Computer-Vision** — CV experiments & notebooks  
   https://github.com/mjmousavi97/Computer-Vision
 
-## Teaching experience
-- **Machine Learning (TA)** — University of Tehran (Fall 2025–Present)  
-- **Pattern Recognition (TA)** — Tarbiat Modares University (Spring 2025)  
-- **Linear Control Systems (TA)** — Arak University (Fall 2021)
-
 ## Highlights
 - **2nd rank** among 60 undergraduate EE students (Arak University entrance cohort).  
 - **Top 0.3% nationwide** (23rd among 9,000) in Iran’s M.Sc. EE entrance exam.
-
-## Coursework
-- **Neuromatch Academy — Deep Learning (128 hours)** (July 26, 2024)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/mjmousavi1997/
