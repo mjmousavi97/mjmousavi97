@@ -25,8 +25,11 @@ I build and analyze **machine learning**, **deep learning**, and **graph-based**
 - **Image-processing-TehranUni-2025** — digital image processing assignments (Python/MATLAB)  
   https://github.com/mjmousavi97/Image-processing-TehranUni-2025
 
-- **Computer-Vision** — CV experiments & notebooks  
-  https://github.com/mjmousavi97/Computer-Vision
+- **Computer-Vision** — CV experiments & notebooks using Open-CV
+  https://github.com/mjmousavi97/image-processing-and-computer_vision-using-opencv/tree/master
+
+- **C-and-CPP-Projects** — Learning and implementing C and C++ language basics and projects
+  https://github.com/mjmousavi97/C-and-CPP
 
 ## Highlights
 - **2nd rank** among 60 undergraduate EE students (Arak University entrance cohort).  
