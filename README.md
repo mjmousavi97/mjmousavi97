@@ -16,20 +16,20 @@ I build and analyze **machine learning**, **deep learning**, and **graph-based**
 - **Graph-Neural-Networks** — study notes + implementations for graph learning & GNNs  
   https://github.com/mjmousavi97/Graph-Neural-Networks
 
-- **Deep-Learning-Tehran-uni** — course homeworks/projects (PyTorch/Keras/TensorFlow)  
-  https://github.com/mjmousavi97/Deep-Learning-Tehran-uni
+- **Deep-Learning** — course homeworks/projects (Keras/TensorFlow)  
+  [https://github.com/mjmousavi97/Deep-Learning]
 
 - **MachinLearning-TehranUni-2024** — supervised & unsupervised ML (many algorithms implemented from scratch)  
-  https://github.com/mjmousavi97/MachinLearning-TehranUni-2024
+  [https://github.com/mjmousavi97/MachinLearning-TehranUni-2024]
 
 - **Image-processing-TehranUni-2025** — digital image processing assignments (Python/MATLAB)  
-  https://github.com/mjmousavi97/Image-processing-TehranUni-2025
+  [https://github.com/mjmousavi97/Image-processing-TehranUni-2025]
 
 - **Computer-Vision** — CV experiments & notebooks using Open-CV
-  https://github.com/mjmousavi97/image-processing-and-computer_vision-using-opencv/tree/master
+  [https://github.com/mjmousavi97/image-processing-and-computer_vision-using-opencv]
 
 - **C-and-CPP-Projects** — Learning and implementing C and C++ language basics and projects
-  https://github.com/mjmousavi97/C-and-CPP
+  [https://github.com/mjmousavi97/C-and-CPP]
 
 ## Highlights
 - **2nd rank** among 60 undergraduate EE students (Arak University entrance cohort).  
