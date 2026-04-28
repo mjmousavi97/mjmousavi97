@@ -1,4 +1,6 @@
 # Mohammad Javad Mousavi
+![Profile Views](https://komarev.com/ghpvc/?username=mjmousavi97&color=blue)
+
 
 M.Sc. student in **Biomedical Engineering (Bioelectrics)** at the **University of Tehran** (ECE School).  
 B.Sc. in **Electrical Engineering**.  
